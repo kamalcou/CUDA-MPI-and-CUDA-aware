@@ -1,0 +1,18 @@
+Time taken 620.663819 seconds for 5000 iterations
+Writing output to file: /scratch/ualclsb0056/1d_output.10000.5000.2
+Time taken 620.037471 seconds for 5000 iterations
+Writing output to file: /scratch/ualclsb0056/1d_output.10000.5000.2
+Time taken 620.942452 seconds for 5000 iterations
+Writing output to file: /scratch/ualclsb0056/1d_output.10000.5000.2
+GPU time is taken=371252.250000 ms
+Writing output to file: /scratch/ualclsb0056/cuda_MPI_output.10000.5000.2
+GPU time is taken=371407.250000 ms
+Writing output to file: /scratch/ualclsb0056/cuda_MPI_output.10000.5000.2
+GPU time is taken=371260.968750 ms
+Writing output to file: /scratch/ualclsb0056/cuda_MPI_output.10000.5000.2
+Cuda aware GPU time is taken=52232.765625 ms
+Writing output to file: /scratch/ualclsb0056/cuda_aware_MPI_output.10000.5000.2
+Cuda aware GPU time is taken=52343.199219 ms
+Writing output to file: /scratch/ualclsb0056/cuda_aware_MPI_output.10000.5000.2
+Cuda aware GPU time is taken=52291.335938 ms
+Writing output to file: /scratch/ualclsb0056/cuda_aware_MPI_output.10000.5000.2
